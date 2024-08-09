@@ -1,4 +1,4 @@
-#Gebruikersovereenkomst en Privacybeleid voor Kroonstad Discord Bot
+# Gebruikersovereenkomst en Privacybeleid voor Kroonstad Discord Bot
 
 ##Gebruikersovereenkomst
 
